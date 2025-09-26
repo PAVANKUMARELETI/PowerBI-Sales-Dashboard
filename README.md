@@ -75,6 +75,7 @@ The dashboard provides **Current Year (CY)** vs **Previous Year (PY)** compariso
 - 🔗 [LinkedIn Profile]([www.linkedin.com/in/pavan-eleti-800a48305)  
 - 🔗 [GitHub Profile](https://github.com/PAVANKUMARELETI)  
 
+THANK YOU💗
 ---
 
 ✨ *This project highlights the use of Power BI for dynamic KPI tracking, business reporting, and visualization.*  
