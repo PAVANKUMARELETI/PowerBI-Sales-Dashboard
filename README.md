@@ -40,7 +40,7 @@ The dashboard provides **Current Year (CY)** vs **Previous Year (PY)** compariso
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](Screenshots/dashboard.png)  
+![Dashboard Preview](dashboard.png)  
 
 ---
 
@@ -70,9 +70,9 @@ The dashboard provides **Current Year (CY)** vs **Previous Year (PY)** compariso
 ---
 
 ## 📬 Author  
-👤 **Your Name**  
-- 📧 [Your Email]  
-- 🔗 [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pavan-eleti-800a48305/))  
+👤 **Pavan Kumar Eleti**  
+- 📧 pavaneletisj@gmail.com  
+- 🔗 [LinkedIn Profile]([www.linkedin.com/in/pavan-eleti-800a48305)  
 - 🔗 [GitHub Profile](https://github.com/PAVANKUMARELETI)  
 
 ---
